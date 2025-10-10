@@ -1,0 +1,1 @@
+print("Hemanth","Amma","Appa",123,3.142,True ,sep="*",end="_")
