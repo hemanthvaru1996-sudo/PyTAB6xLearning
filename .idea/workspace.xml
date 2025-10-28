@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b74edd3-2e9e-4ca6-8ccb-78aed9944dbc" name="Changes" comment="Oct 14 changes Added">
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab045_If_else_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab046_If_elif_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab047_Grade_cal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_043_Ifcondition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_043_Optimized if condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_044_ElseIF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_044_NestedIf_ELSEif.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task/Task005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task005.py" afterDir="false" />
     </list>
@@ -85,9 +92,16 @@
     "Python.Lab041_Membership operator.executor": "Run",
     "Python.Lab042_Identity_operator.executor": "Run",
     "Python.Lab042_math.executor": "Run",
+    "Python.Lab045_If_else_condition.executor": "Run",
+    "Python.Lab046_If_elif_else.executor": "Run",
+    "Python.Lab047_Grade_cal.executor": "Run",
     "Python.Lab_031_Unary_Operator.executor": "Run",
     "Python.Lab_032_Comparision_Operator.executor": "Run",
     "Python.Lab_033_Logical_Operators.executor": "Run",
+    "Python.Lab_043_Ifcondition.executor": "Run",
+    "Python.Lab_043_Optimized if condition.executor": "Run",
+    "Python.Lab_044_ElseIF.executor": "Run",
+    "Python.Lab_044_NestedIf_ELSEif.executor": "Run",
     "Python.Tab031_Bitwise operator.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
@@ -210,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760724605000</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Oct 14 changes Added">
+      <option name="closed" value="true" />
+      <created>1760725127407</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760725127407</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
