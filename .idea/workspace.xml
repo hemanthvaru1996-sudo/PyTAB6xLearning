@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b74edd3-2e9e-4ca6-8ccb-78aed9944dbc" name="Changes" comment="Oct 14 changes Added">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab045_If_else_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab046_If_elif_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab047_Grade_cal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_043_Ifcondition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_043_Optimized if condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_044_ElseIF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_044_NestedIf_ELSEif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task/Task005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task005.py" afterDir="false" />
+    <list default="true" id="9b74edd3-2e9e-4ca6-8ccb-78aed9944dbc" name="Changes" comment="Oct 16 changes Added">
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab047_Grade_cal.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab047Grade_cal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_043_Ifcondition.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab043_Ifcondition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_043_Optimized if condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab043_Optimized if condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_044_ElseIF.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_ElseIF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab_044_NestedIf_ELSEif.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_NestedIf_ELSEif.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760725127407</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Oct 16 changes Added">
+      <option name="closed" value="true" />
+      <created>1761669310752</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761669310752</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +255,7 @@
     <MESSAGE value="Oct 9 changes Added" />
     <MESSAGE value="Oct 11 changes Added" />
     <MESSAGE value="Oct 14 changes Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct 14 changes Added" />
+    <MESSAGE value="Oct 16 changes Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct 16 changes Added" />
   </component>
 </project>
