@@ -4,25 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b74edd3-2e9e-4ca6-8ccb-78aed9944dbc" name="Changes" comment="Oct 16 changes Added">
-      <change afterPath="$PROJECT_DIR$/Task/Task007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task010.py" afterDir="false" />
+    <list default="true" id="9b74edd3-2e9e-4ca6-8ccb-78aed9944dbc" name="Changes" comment="Oct 18 changes Added">
       <change afterPath="$PROJECT_DIR$/Task/Task011_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/task009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_match/LabSwitch001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_match/LabSwitch002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab048_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab049_for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab050_For_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab051_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab052_IQ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/LabForUsedinRealLife.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/Lab_revrse_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/For Loop/LabforRealLifeexample2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While/Lab053_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While/LabWhile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While/LabWhile_vs_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task012_Fizz_buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task013_Even_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task014_downward_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task015_Skip_numbers_divisableby3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task_grade_cal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/Lab054_for_while_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/Lab055_for_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/Lab058_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/Lab059_Odd_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/Lab_057_Pass_Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While/Lab_056_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/While/Lab_while_vs_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_loops/pass_vs_Continue/Lab060_pass_vs_continue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,80 +67,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Basic_Salary_calculation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Comparison_check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002_comment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_Print.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005_Variables_part1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006_Identifier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007_Variables_Names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014_Math_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015_IQ.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab021_UserInput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022_User_Input_Sum_Of_Two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab030_quotientTask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_Arithematic1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_Arithematic3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab035_IQ.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab036_Comparision_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab037_Logical_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab038_Operators_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab039_Operators_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab040_Operators Example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab040_Ternary operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab040_Userinput_Ternary_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab041_Membership operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab042_Identity_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab042_math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab045_If_else_condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab046_If_elif_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab047_Grade_cal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab048_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab049_for_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab050_For_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab051_IQ.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab052_IQ.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab053_while.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabForUsedinRealLife.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabSwitch001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabSwitch002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabWhile_vs_for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_031_Unary_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_032_Comparision_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_033_Logical_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_043_Ifcondition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_043_Optimized if condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_044_ElseIF.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_044_NestedIf_ELSEif.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_revrse_for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tab031_Bitwise operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task006_Area_of_circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task011_Factorial.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.forRealLifeexample2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/PycharmProjects/PyTAB6xLearning&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Basic_Salary_calculation.executor": "Run",
+    "Python.Comparison_check.executor": "Run",
+    "Python.Fizz_buzz.executor": "Run",
+    "Python.Lab002_comment.executor": "Run",
+    "Python.Lab003_Print.executor": "Run",
+    "Python.Lab004_Keyword.executor": "Run",
+    "Python.Lab005_Variables_part1.executor": "Run",
+    "Python.Lab006_Identifier.executor": "Run",
+    "Python.Lab007_Variables_Names.executor": "Run",
+    "Python.Lab014_Math_Functions.executor": "Run",
+    "Python.Lab015_IQ.executor": "Run",
+    "Python.Lab016_Literals.executor": "Run",
+    "Python.Lab021_UserInput.executor": "Run",
+    "Python.Lab022_User_Input_Sum_Of_Two_numbers.executor": "Run",
+    "Python.Lab030_quotientTask.executor": "Run",
+    "Python.Lab031_Arithematic1.executor": "Run",
+    "Python.Lab031_Operator.executor": "Run",
+    "Python.Lab034_Arithematic3.executor": "Run",
+    "Python.Lab035_IQ.executor": "Run",
+    "Python.Lab036_Comparision_operator.executor": "Run",
+    "Python.Lab037_Logical_Operators.executor": "Run",
+    "Python.Lab038_Operators_Example.executor": "Run",
+    "Python.Lab039_Operators_Example.executor": "Run",
+    "Python.Lab040_Operators Example.executor": "Run",
+    "Python.Lab040_Ternary operator.executor": "Run",
+    "Python.Lab040_Userinput_Ternary_Operator.executor": "Run",
+    "Python.Lab041_Membership operator.executor": "Run",
+    "Python.Lab042_Identity_operator.executor": "Run",
+    "Python.Lab042_math.executor": "Run",
+    "Python.Lab045_If_else_condition.executor": "Run",
+    "Python.Lab046_If_elif_else.executor": "Run",
+    "Python.Lab047_Grade_cal.executor": "Run",
+    "Python.Lab048_loop.executor": "Run",
+    "Python.Lab049_for_loop.executor": "Run",
+    "Python.Lab050_For_loops.executor": "Run",
+    "Python.Lab051_IQ.executor": "Run",
+    "Python.Lab052_IQ.executor": "Run",
+    "Python.Lab053_while.executor": "Run",
+    "Python.Lab054_for_while_IQ.executor": "Run",
+    "Python.Lab055_for_break.executor": "Run",
+    "Python.Lab058_IQ.executor": "Run",
+    "Python.Lab059_Odd_Number.executor": "Run",
+    "Python.Lab060_pass_vs_continue.executor": "Run",
+    "Python.LabForUsedinRealLife.executor": "Run",
+    "Python.LabSwitch001.executor": "Run",
+    "Python.LabSwitch002.executor": "Run",
+    "Python.LabWhile.executor": "Run",
+    "Python.LabWhile_vs_for.executor": "Run",
+    "Python.Lab_031_Unary_Operator.executor": "Run",
+    "Python.Lab_032_Comparision_Operator.executor": "Run",
+    "Python.Lab_033_Logical_Operators.executor": "Run",
+    "Python.Lab_043_Ifcondition.executor": "Run",
+    "Python.Lab_043_Optimized if condition.executor": "Run",
+    "Python.Lab_044_ElseIF.executor": "Run",
+    "Python.Lab_044_NestedIf_ELSEif.executor": "Run",
+    "Python.Lab_056_IQ.executor": "Run",
+    "Python.Lab_057_Pass_Break.executor": "Run",
+    "Python.Lab_revrse_for.executor": "Run",
+    "Python.Lab_while_vs_for.executor": "Run",
+    "Python.Tab031_Bitwise operator.executor": "Run",
+    "Python.Task001.executor": "Run",
+    "Python.Task002.executor": "Run",
+    "Python.Task003.executor": "Run",
+    "Python.Task004.executor": "Run",
+    "Python.Task005.executor": "Run",
+    "Python.Task006.executor": "Run",
+    "Python.Task006_Area_of_circle.executor": "Run",
+    "Python.Task011Fizz_buzz.executor": "Run",
+    "Python.Task011_Factorial.executor": "Run",
+    "Python.Task013_Even_Number.executor": "Run",
+    "Python.Task014_downward_print.executor": "Run",
+    "Python.Task015_Skip_numbers_divisableby3.executor": "Run",
+    "Python.forRealLifeexample2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/PycharmProjects/PyTAB6xLearning",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\PycharmProjects\PyTAB6xLearning\src\ex_07_loops\While" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PyTAB6xLearning\Task" />
+      <recent name="C:\Users\LENOVO\PycharmProjects\PyTAB6xLearning\src\ex_07_loops" />
       <recent name="C:\Users\LENOVO\PycharmProjects\PyTAB6xLearning\src\ex_07_loops\For Loop" />
       <recent name="C:\Users\LENOVO\PycharmProjects\PyTAB6xLearning\src\ex_03_Literals_Variables" />
     </key>
@@ -172,8 +184,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task011_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyTAB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Task011_Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task011_Factorial" />
         <item itemvalue="Python.Lab002_comment" />
       </list>
     </recent_temporary>
@@ -265,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761669310752</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Oct 18 changes Added">
+      <option name="closed" value="true" />
+      <created>1763735622898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763735622898</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +328,7 @@
     <MESSAGE value="Oct 11 changes Added" />
     <MESSAGE value="Oct 14 changes Added" />
     <MESSAGE value="Oct 16 changes Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oct 16 changes Added" />
+    <MESSAGE value="Oct 18 changes Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct 18 changes Added" />
   </component>
 </project>
