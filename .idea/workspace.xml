@@ -5,50 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b74edd3-2e9e-4ca6-8ccb-78aed9944dbc" name="Changes" comment="Oct 18 changes Added">
-      <change afterPath="$PROJECT_DIR$/My_Own_Tasks/Even_odd_using_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_Own_Tasks/Hackerrank challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task016_Isoceles triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task016_Square of a positive number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task017_API_response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/Task018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_011_TypeConversion/Lab087_Type_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab090_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab091_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab092_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab093_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab094_Even_odd_using_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab095_Lambda_power.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Function_parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Function_returntype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab065_function_with_default_parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab066_Functions_Return_multiple_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_user_input_Pass_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Function_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Functions_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_infinite_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab073_Real_example_mul_arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/lab060_built_in_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/lab061_fuctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/lab062_example_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Function_scope/Lab075_Local_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Function_scope/Lab076_Local_Global.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Function_scope/Lab077_Local_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Function_scope/Lab078_Inner_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab079_Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab080_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab081_without_decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab082_Real_exampe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab083_Decor2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab084_Leap_year_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab_time.py" afterDir="false" />
       <change beforePath="$USER_HOME$/FlaskProject/templates/Checkout.html" beforeDir="false" afterPath="$USER_HOME$/FlaskProject/templates/Checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyTAB6xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyTAB6xLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_ElseIF.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/Lab044_ElseIF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_24_Pytest/test_Lab184_Basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24_Pytest/test_Lab184_Basic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -406,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766067562245</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Oct 18 changes Added">
+      <option name="closed" value="true" />
+      <created>1769438865905</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1769438865905</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
