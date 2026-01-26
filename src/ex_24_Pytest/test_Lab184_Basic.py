@@ -7,4 +7,4 @@ def test_method1():
 @pytest.mark.smoke
 def test_method2():
     print('Hello world')
-    assert 5==6
+    assert 6+6==12
