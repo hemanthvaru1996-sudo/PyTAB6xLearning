@@ -5,20 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b74edd3-2e9e-4ca6-8ccb-78aed9944dbc" name="Changes" comment=" changes Added">
-      <change beforePath="$PROJECT_DIR$/src/ex_011_TypeConversion/Lab087_Type_Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_11_TypeConversion/Lab087_Type_Conversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab090_Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Lambda_expression/Lab090_Lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab091_Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Lambda_expression/Lab091_Lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab092_Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Lambda_expression/Lab092_Lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab093_Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Lambda_expression/Lab093_Lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab094_Even_odd_using_lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Lambda_expression/Lab094_Even_odd_using_lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_012_Lambda_expression/Lab095_Lambda_power.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Lambda_expression/Lab095_Lambda_power.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_013_LIsts/Lab096_Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13_LIsts/Lab096_Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_013_LIsts/Lab097_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13_LIsts/Lab097_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_013_LIsts/Lab098_Slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13_LIsts/Lab098_Slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_013_LIsts/Lab098_pop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13_LIsts/Lab098_pop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_014_Tuple/Lab099_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab099_Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_014_Tuple/Lab100_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_014_Tuple/Lab101_IQ_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_IQ_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab102_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab103_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab104_Set_p3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_Extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_In_List/LabFilter01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_In_List/LabFilter02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_In_List/LabFilter03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_In_List/LabMap01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_In_List/LabMap02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Mul_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab109_MUl Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab110_Dict_concepts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Own_Tasks/Star patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/My_Own_Tasks/Star patterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task/Task011_Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task/Task011_Factorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +54,12 @@
     &quot;assignee&quot;: &quot;hemanthvaru1996-sudo&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hemanthvaru1996-sudo/PyTAB6xLearning.git",
-    "accountId": "9ced4e8c-6ff0-4f66-a36c-cc1070d177d9"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hemanthvaru1996-sudo/PyTAB6xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;9ced4e8c-6ff0-4f66-a36c-cc1070d177d9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="sortByName" value="true" />
   </component>
@@ -150,7 +155,17 @@
     "Python.Lab099_Tuple.executor": "Run",
     "Python.Lab100_Tuple.executor": "Run",
     "Python.Lab101_IQ_Tuple.executor": "Run",
+    "Python.Lab103_Set.executor": "Run",
+    "Python.Lab105_IQ.executor": "Run",
+    "Python.Lab106_Dict.executor": "Run",
+    "Python.Lab107_Dict.executor": "Run",
+    "Python.Lab108_Mul_Dict.executor": "Run",
+    "Python.Lab110_Dict_concepts.executor": "Run",
+    "Python.LabFilter01.executor": "Run",
+    "Python.LabFilter02.executor": "Run",
+    "Python.LabFilter03.executor": "Run",
     "Python.LabForUsedinRealLife.executor": "Run",
+    "Python.LabMap01.executor": "Run",
     "Python.LabSwitch001.executor": "Run",
     "Python.LabSwitch002.executor": "Run",
     "Python.LabWhile.executor": "Run",
@@ -431,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769485954691</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=" changes Added">
+      <option name="closed" value="true" />
+      <created>1769486590215</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1769486590215</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
